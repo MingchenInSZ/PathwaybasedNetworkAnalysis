@@ -1,0 +1,9 @@
+/bin
+/dataRepository
+/.settings
+.classpath
+.project
+.projectproperties
+
+*.class
+*.out
